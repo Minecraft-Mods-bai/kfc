@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": ["###", " u "],
+	"key": {
+		"#": "minecraft:cooked_chicken",
+		"u": "minecraft:bucket"
+	},
+	"result": {
+		"id": "kfc:kfc",
+		"count": 6
+	}
+}
